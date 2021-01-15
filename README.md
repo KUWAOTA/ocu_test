@@ -3,10 +3,10 @@
 
 ### ocu_test2
 oculus linkでのデバッグ、
-oculus touchの制御などの練習用に作ったproject
+oculus touchの制御などの練習用に作ったproject <br>
 WebRTC用にそのうち使うかも
 ### test4debug
-基本動作の思い起こしのために用意したテスト用project
+基本動作の思い起こしのために用意したテスト用project <br>
 もっとたたき台
 
 version https://git-lfs.github.com/spec/v1
